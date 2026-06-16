@@ -25,13 +25,7 @@ The PPL evaluation uses text fragments sampled from the following datasets:
 
 Each dataset contains 100 text samples, and each sample is approximately 512 tokens.
 
-## File Description
 
-* `prompts/wikitext103_prompts.jsonl`: Prompt samples from WikiText-103
-* `prompts/c4_en_prompts.jsonl`: Prompt samples from C4-en
-* `prompts/longbenchv2_prompts.jsonl`: Prompt samples from LongBenchv2
-* `results/ppl_results.csv`: PPL results reported in the paper
-* `configs/vllm_ppl_config.md`: vLLM serving and benchmark configuration
 
 ## PPL Results
 
